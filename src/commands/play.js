@@ -7,7 +7,7 @@ const ytSearch = require('yt-search');
 const SpotifyWebApi = require('spotify-web-api-node');
 
 const { youtubeApiKey, spotify } = require('../config/config');
-const API_KEY = youtubeApiKey;
+const API_KEY = AIzaSyBW45F6CB6_NDXXkZ5qYlA2W65gdrVmwsc;
 const spotifyApi = new SpotifyWebApi({
   clientId: spotify.clientId,
   clientSecret: spotify.clientSecret,
